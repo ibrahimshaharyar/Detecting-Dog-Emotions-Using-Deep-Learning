@@ -5,6 +5,8 @@ This project implements a Convolutional Neural Network (CNN) to classify dog emo
 It’s based on the Dataquest Dog Emotions Project
  and expands it with improved model structure, data augmentation, and normalization.
 
+ Download data set from here: [https://drive.google.com/uc?export=do...](https://drive.usercontent.google.com/download?id=1VN4TnRaBtajJ7m4FiGCOQCEgbs2bquem&export=download&authuser=0)
+
 🚀 Project Overview
 
 The goal is to train a deep learning model that can recognize a dog’s emotional expression (e.g., happy, sad, angry) from its image.
